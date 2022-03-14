@@ -6,7 +6,7 @@ public class ArrayLargest {
 		int[] a = { 1, 2, 999999, 952, 963, 7, 0, 9999999 };
 		int max = a[0];
 		for (int i = 1; i < a.length; i++) {
-			if (a[i] > max) {
+			if (a[i] > max) {  //checks for the largest
 				max = a[i];
 			}
 		}
