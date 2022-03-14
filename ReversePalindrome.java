@@ -24,4 +24,4 @@ public class ReversePalindrome {
 		}
 	}
 
-}
+} // end of prgms
